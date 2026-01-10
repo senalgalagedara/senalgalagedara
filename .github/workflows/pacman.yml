@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4           # ← this was probably missing → very important!
 
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@v2.3.0   # ← latest stable version Oct 2025
+        uses: abozanona/pacman-contribution-graph@2.3.0   # ← latest stable version Oct 2025
         with:
           github_user_name: ${{ github.repository_owner }}   # your username (Senal)
 
