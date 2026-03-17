@@ -5,11 +5,7 @@
 </p>
 
 ---
-<style>
-    table,th,td{
-        border:none;
-    }
-</style>
+
 <table>
   <tr>
     <td width="50%" align="left">
