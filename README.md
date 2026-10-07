@@ -1,7 +1,7 @@
 <h2 align="center">私の名前は Senal D. Galagedara です。偉大なエンジニアになる男。</h2>
 
 <p align="center">
-  <em>Data Science Student at SLIIT | Founder of Teso | Full-Stack & AI Enthusiast</em>
+  <em>Data Science Student at SLIIT | Founder of Teso | Software Engineer & AI Enthusiast</em>
 </p>
 
 ---
